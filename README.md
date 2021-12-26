@@ -51,7 +51,7 @@ Comprueba que el broker MQTT esté funcionando.
 Carga el programa ES2CAM_MQTT-Basic.ino en el ESP32CAM.
 Visita el dashboard de NodeRed
 
-https://raw.githubusercontent.com/codigo-iot/ESP32CAM_MQTT-Basic/main/esp32camMQTTbasic.jpg![image](https://user-images.githubusercontent.com/95736849/147420512-271d0f1e-29fc-4081-890e-1925aa96ae9a.png)
+https://raw.githubusercontent.com/codigo-iot/ESP32CAM_MQTT-Basic/main/esp32camMQTTbasic.jpg
 
 Podrás observar una cuenta progresiva, la cual envía el prográma base del ESP32CAM. Puedes controlar el led flash del ESP32CAM con el switch del dashboard.
 
